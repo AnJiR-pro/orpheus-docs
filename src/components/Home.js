@@ -15,7 +15,7 @@ function Home(){
             </div>
             <div className="navigation">
                 <Link to="/commands"><button className="button-primary">Command List</button></Link>
-                <button className="button-primary">Add to Server</button>
+                <a href="https://gg.gg/orpheusbot"><button className="button-primary">Add to Server</button></a>
                 <a href="https://patreon.com/sorrowinrain"><button className="button-primary">Support Us</button></a>
                 <button className="button-primary">Contact Us</button>
             </div>
