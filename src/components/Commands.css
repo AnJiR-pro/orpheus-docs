@@ -16,6 +16,18 @@
     padding: 1%;
 }
 
+.button-primary{
+    width: 30%;
+    transition-duration: 0.75s;
+    font-size: 2vw;
+}
+
+.button-primary:hover{
+    color: black;
+    background-color: rgba(255,255,255,0.95);
+    cursor: pointer;
+}
+
 h1{
     margin-top: 25px;
     margin-bottom: 5px;
@@ -24,6 +36,17 @@ h1{
 
 h3{
     margin: 0px 5px 5px 5px;
+}
+
+.buttons{
+    margin: 0px;
+    width: 100%;
+    padding: 0px 5px 10px 5px;
+    background-color: goldenrod;
+}
+
+.navigation{
+    margin: 0px 0px 10px 0px;
 }
 
 .content{
