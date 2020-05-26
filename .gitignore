@@ -106,3 +106,6 @@ dist
 # Package
 package.json
 package-lock.json
+
+# React build files
+build/
