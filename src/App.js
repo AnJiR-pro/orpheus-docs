@@ -13,7 +13,7 @@ import ErrorMsg from './components/ErrorMsg';
 
 function App() {
   return (
-    <Router basename="/orpheus-docs">
+    <Router>
       <div className="App">
         <Switch>
           <Route path="/" exact component={Home} />
