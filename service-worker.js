@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/orpheus-docs/precache-manifest.1e6da02b205365d1d2b413be93ba8508.js"
+  "/orpheus-docs/precache-manifest.54119da00643bf1bd7f90d1657b8ab74.js"
 );
 
 self.addEventListener('message', (event) => {
